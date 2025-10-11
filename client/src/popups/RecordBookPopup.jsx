@@ -1,6 +1,6 @@
 import React from 'react'
 
-const RecordBookPopup = () => {
+const RecordBookPopup = ({}) => {
   return (
     <div>
       
