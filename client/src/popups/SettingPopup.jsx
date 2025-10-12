@@ -22,7 +22,7 @@ const SettingPopup = () => {
   };
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 p-5 flex items-center justify-center z-50">
-      <div className="w-full bg-white rounded-lg shadow-lg md:w-auto lg:w-1/2 2xl:w-1/3">
+      <div className="w-full bg-white rounded-lg shadow-lg sm:w-auto lg:w-1/2 2xl:w-1/3">
         <div className="p-6">
           <header className="flex justify-between items-center mb-7 pb-5 border-b-[1px] border-black">
             <div className="flex items-center gap-3">

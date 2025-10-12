@@ -46,7 +46,7 @@ const Home = () => {
           case "Books":
             return <BookManagement />;
             break;
-          case "Catelog":
+          case "Catalog":
             if (user.role === "Admin") {
               return <Catalog />;
             }
